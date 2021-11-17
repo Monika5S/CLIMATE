@@ -1,5 +1,5 @@
 # CLIMATE
-A Weather Detector Application In Python 
-Using Tykinter and openweather api
+A tkinter Application In Python which shows weather data based on city searched by user
 
-This application shows weather based on user search 
+<h3>openweather api is used to get weather Data </h3>
+
