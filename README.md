@@ -6,13 +6,16 @@
 <img src alt='output_image'>
 
 <br>
-<b>Tkinter<b> It is a standard python interface used to create the GUI applications for desktop.<br>
-It provides widgets such as labels, buttons, text boxes, checkboxes which are useful for developing applications
-<br>
-  
-<b>PIL (Python Imaging Library)</b> is used for opening, manipulating, and displaying different types of image file.
-<br>
-  
-<b>requests<b> module allows to send HTTP requests which works as a request-response protocol between a client and a server.
-It is used for requesting and getting the weather data from Openweathermap Api.
+
+<ul>
+  <li><b>Tkinter<b> It is a standard python interface used to create the GUI applications for desktop.<br>
+         It provides widgets such as labels, buttons, text boxes, checkboxes which are useful for developing applications
+  </li><br>
+    
+  <li><b>PIL (Python Imaging Library)</b> is used for opening, manipulating, and displaying different types of image file.</li><br>
+    
+  <li><b>requests<b> module allows to send HTTP requests which works as a request-response protocol between a client and a server.
+         It is used for requesting and getting the weather data from Openweathermap Api.
+  </li>
+</ul>
 
