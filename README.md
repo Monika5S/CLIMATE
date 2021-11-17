@@ -3,7 +3,7 @@
 <h2>using Tkinter Python and Openweathermap api</h2>
 <h3>This application shows weather data based on city searched by user</h3>
 
-<img src alt='output_image'>
+<img src='https://github.com/Monika5S/CLIMATE/blob/main/sample_output/OUT_1.JPG?raw=true' alt='output_image'>
 
 <br>
 
