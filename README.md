@@ -14,7 +14,7 @@
     
   <li><b>PIL (Python Imaging Library)</b> is used for opening, manipulating, and displaying different types of image file.</li><br>
     
-  <li><b>requests<b> module allows to send HTTP requests which works as a request-response protocol between a client and a server.
+  <li><b>requests<b> module allows to send HTTP requests which works as a request-response protocol between a client and a server.<br>
          It is used for requesting and getting the weather data from Openweathermap Api.
   </li>
 </ul>
